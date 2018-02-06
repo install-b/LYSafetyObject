@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
 
   s.description  = "An variable array、 dictionary and set Objects which can running safety at multi threads."
 
-  s.homepage     = "http://github.com/install-b/LYSafetyObject"
+  s.homepage     = "https://github.com/install-b/LYSafetyObject"
 
   s.license      = "MIT"
 
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
   s.platform     = :os
   s.platform     = :ios
 
-  s.source       = { :git => "http://github.com/install-b/LYSafetyObject.git", :tag => s.version }
+  s.source       = { :git => "https://github.com/install-b/LYSafetyObject.git", :tag => s.version }
 
 
   s.source_files  = "Classes/**/*.{h,m}"
